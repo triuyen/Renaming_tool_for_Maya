@@ -1,5 +1,7 @@
 # Renaming_tool_for_Maya 2022
 
+the tool is opensource and does not fall under any category of licences.
+
 ### Langue : Python 3
 
 ## Video Demo of version 001
